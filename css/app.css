@@ -66,22 +66,22 @@ section {
     border: 4px solid #000;
     margin: 7px;
   }
-#services {
+#skills {
   width: 100%;
   min-height: 700px;
-  background: #c86464;
+  background: #136dbcde;
   float: left;
   border-bottom: 1px solid #272525;
 }
-  #services > img {
+  #skills > img {
       border-radius: 8px;
       border: 1px solid #000;
       margin: 7px;
     }
-  #enrollment {
+  #opportunity {
     width: 100%;
     min-height: 700px;
-    background: #62c286;
+    background: #74afb6;
     background-size: 100%;
     clear: both;
     text-align: left;
